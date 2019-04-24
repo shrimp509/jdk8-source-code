@@ -1,7 +1,7 @@
 # jdk8-source-code
 
-## jdk path in Mac
+## Jdk path in Mac
 /Library/Java/JavaVirtualMachines/{your_jdks}
 
-## this jdk version
+## This jdk version
 jdk1.8.0_151.jdk
